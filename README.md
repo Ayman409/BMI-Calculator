@@ -1,16 +1,7 @@
-# bmi
+# BMI Calculator
 
-A new Flutter project.
+ BMI Flutter App for calcualte BMI and gives unique results depends on user data.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Android Emulator - Pixel_4_API_31_5554 11_25_2022 6_00_00 PM](https://user-images.githubusercontent.com/72998532/204021387-af2a7d8c-7f00-4944-b065-a56e9feb6e0b.png)
+![Android Emulator - Pixel_4_API_31_5554 11_25_2022 6_00_17 PM](https://user-images.githubusercontent.com/72998532/204021388-e68c9a72-e8fe-4f41-9936-959d3765c417.png)
